@@ -10,6 +10,15 @@
       "server_name": "كود هوب"
     }
   ],
-  "resources": [],
-  "updated_at": "2026-03-05T06:23:13.782Z"
+  "resources": [
+    {
+      "product_id": 6,
+      "name": "غسالات اوتوماتيكي",
+      "type": "vehicle",
+      "version": "1.0.0",
+      "enforce_version": false,
+      "expires_at": "2026-03-06T00:00:00.000Z"
+    }
+  ],
+  "updated_at": "2026-03-05T06:23:16.530Z"
 }
