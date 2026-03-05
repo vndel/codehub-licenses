@@ -1,6 +1,18 @@
 {
-  "total_ips": 0,
-  "total_users": 0,
-  "updated_at": "2026-03-05T06:21:44.325Z",
-  "servers": []
+  "total_ips": 1,
+  "total_users": 1,
+  "updated_at": "2026-03-05T06:26:44.970Z",
+  "servers": [
+    {
+      "ip": "213.139.40.11",
+      "users_count": 1,
+      "owners": [
+        "ybv10"
+      ],
+      "server_names": [
+        "كود هوب"
+      ],
+      "total_resources": 1
+    }
+  ]
 }
