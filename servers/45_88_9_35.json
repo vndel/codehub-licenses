@@ -5,12 +5,6 @@
   "server_name": "كود هوب",
   "resources": [
     {
-      "product_id": 6,
-      "name": "YB_Staffs | نظام الصلاحيات الادارية",
-      "type": "ui",
-      "expires_at": "2026-03-25T03:03:11.000Z"
-    },
-    {
       "product_id": 3,
       "name": "Modern HUD System",
       "type": "ui",
@@ -21,7 +15,13 @@
       "name": "Weapon Customization",
       "type": "weapon",
       "expires_at": null
+    },
+    {
+      "product_id": 6,
+      "name": "YB_Staffs | نظام الصلاحيات الادارية",
+      "type": "ui",
+      "expires_at": "2026-03-25T03:03:11.000Z"
     }
   ],
-  "updated_at": "2026-03-05T03:03:11.107Z"
+  "updated_at": "2026-03-05T03:06:56.322Z"
 }
