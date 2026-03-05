@@ -17,8 +17,8 @@
       "type": "vehicle",
       "version": "1.0.0",
       "enforce_version": false,
-      "expires_at": "2026-03-06T00:00:00.000Z"
+      "expires_at": null
     }
   ],
-  "updated_at": "2026-03-05T06:26:44.327Z"
+  "updated_at": "2026-03-05T06:31:26.055Z"
 }
