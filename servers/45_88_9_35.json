@@ -9,7 +9,13 @@
       "name": "Modern HUD System",
       "type": "ui",
       "expires_at": "2027-03-05T02:51:51.000Z"
+    },
+    {
+      "product_id": 5,
+      "name": "Weapon Customization",
+      "type": "weapon",
+      "expires_at": null
     }
   ],
-  "updated_at": "2026-03-05T02:51:51.189Z"
+  "updated_at": "2026-03-05T02:51:51.840Z"
 }
