@@ -8,6 +8,11 @@
       "discord_id": "398520151236149249",
       "username": "777m",
       "server_name": ""
+    },
+    {
+      "discord_id": "548192595403210752",
+      "username": "ybv10",
+      "server_name": "كود هوب"
     }
   ],
   "resources": [
@@ -26,7 +31,23 @@
       "version": "1.0.0",
       "enforce_version": false,
       "expires_at": null
+    },
+    {
+      "product_id": 3,
+      "name": "Modern HUD System",
+      "type": "ui",
+      "version": "3.0.0",
+      "enforce_version": false,
+      "expires_at": "2027-03-05T02:51:51.000Z"
+    },
+    {
+      "product_id": 6,
+      "name": "YB_Staffs | نظام الصلاحيات الادارية",
+      "type": "ui",
+      "version": "1.0.0",
+      "enforce_version": false,
+      "expires_at": "2026-03-25T03:03:11.000Z"
     }
   ],
-  "updated_at": "2026-03-05T04:00:06.469Z"
+  "updated_at": "2026-03-05T04:00:18.870Z"
 }
