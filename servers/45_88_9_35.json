@@ -3,6 +3,13 @@
   "owner_discord_id": "548192595403210752",
   "owner_name": "ybv10",
   "server_name": "كود هوب",
-  "resources": [],
-  "updated_at": "2026-03-05T02:50:59.393Z"
+  "resources": [
+    {
+      "product_id": 3,
+      "name": "Modern HUD System",
+      "type": "ui",
+      "expires_at": "2027-03-05T02:51:51.000Z"
+    }
+  ],
+  "updated_at": "2026-03-05T02:51:51.189Z"
 }
