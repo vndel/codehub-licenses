@@ -1,19 +1,6 @@
 {
-  "total_ips": 1,
-  "total_users": 2,
-  "updated_at": "2026-03-05T04:29:59.952Z",
-  "servers": [
-    {
-      "ip": "45.88.9.35",
-      "users_count": 2,
-      "owners": [
-        "777m",
-        "ybv10"
-      ],
-      "server_names": [
-        "كود هوب"
-      ],
-      "total_resources": 5
-    }
-  ]
+  "total_ips": 0,
+  "total_users": 0,
+  "updated_at": "2026-03-05T05:07:45.539Z",
+  "servers": []
 }
