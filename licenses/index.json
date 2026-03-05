@@ -1,4 +1,12 @@
 {
-  "updated_at": "2026-03-05T02:20:02.139Z",
-  "licenses": []
+  "updated_at": "2026-03-05T02:21:58.267Z",
+  "licenses": [
+    {
+      "id": 1,
+      "license_key": "cc7a7f00-7e2d-499a-b0a7-185f460bdcaf",
+      "owner": "398520151236149249",
+      "server_name": "سيرفر المدينة",
+      "is_active": true
+    }
+  ]
 }
