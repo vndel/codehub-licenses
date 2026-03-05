@@ -1,0 +1,18 @@
+{
+  "total_servers": 2,
+  "updated_at": "2026-03-05T03:28:21.499Z",
+  "servers": [
+    {
+      "ip": "45.88.9.35",
+      "owner": "777m",
+      "server_name": "",
+      "resources_count": 0
+    },
+    {
+      "ip": "45.88.9.35",
+      "owner": "ybv10",
+      "server_name": "كود هوب",
+      "resources_count": 3
+    }
+  ]
+}
